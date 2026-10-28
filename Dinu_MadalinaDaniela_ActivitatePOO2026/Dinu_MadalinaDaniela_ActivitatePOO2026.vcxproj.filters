@@ -18,5 +18,8 @@
     <ClCompile Include="ActvitateRecapitulare1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Introducere-Clase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
